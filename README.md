@@ -10,7 +10,8 @@
 
 - Step 1. Enter @Botfather in the search tab and choose this bot.
 
-![photo_2022-04-25_12-30-30](https://user-images.githubusercontent.com/82867130/165037216-463aa2d4-d764-45e2-9271-6d60a5a0453b.jpg)
+![photo_2022-04-25_12-30-30](https://user-images.githubusercontent.com/82867130/165043316-fee61bb5-a83d-4a83-b7c1-e3c9d3f1a9bd.jpg)
+
 
 
 - Step 2. Click “Start” to activate BotFather bot.
