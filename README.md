@@ -6,7 +6,7 @@
 
 ## How to create Telegram Bot and receive Telegram Authorization Token
 
-*Creating a new bot:*
+* Creating a new bot :*
 
 - Step 1. Enter @Botfather in the search tab and choose this bot.
 
@@ -14,11 +14,11 @@
 
 - Step 3. Choose or type the /newbot command and send it.
 
-- Step 4. Choose a name for your bot — your subscribers will see it in the conversation. And choose a username for your bot — the bot can be found by its username in searches. The username must be unique and end with the word “bot.”
+- Step 4. Choose a name for your bot — your subscribers will see it in the conversation. And choose a username for your bot — the bot can be found by its username in searches. Username must be unique and end with the word “bot.”
 
-After you choose a suitable name for your bot — the bot is created.
+- Step 5. After you choose a suitable name for your bot — the bot is created.
 
-Copy Telegram Authorization Token into the [application.properties](https://github.com/dchikitsa-health/dChikitsaTelegramBot/blob/main/src/main/resources/application.properties) file.
+- Step 6. Copy Telegram Authorization Token into the [application.properties](https://github.com/dchikitsa-health/dChikitsaTelegramBot/blob/main/src/main/resources/application.properties) file.
 
 
 
