@@ -7,17 +7,18 @@ public class Bot {
 			return null;
 		}
 
-		if (message.equalsIgnoreCase("/bookdoctor")) {
+		if (message.equalsIgnoreCase("/bookappointment")) {
 			return """
-					 Replace this with business logic related to DHP doctor booking
+					 Replace this with business logic related to DHP appointment booking
 					""";
 		}
-		if (message.equalsIgnoreCase("/booklab")) {
+
+		if (message.equalsIgnoreCase("/selectdoctor")) {
 			return """
-					Replace this with business logic related to DHP lab booking
+					 Replace this with business logic related to DHP select doctor
 					""";
 		}
-		
+
 		if (message.equalsIgnoreCase("/location")) {
 			return """
 					Replace this with business logic related to DHP location sharing
@@ -27,12 +28,6 @@ public class Bot {
 		if (message.equalsIgnoreCase("/confirm")) {
 			return """
 					Replace this with business logic related to DHP confirm
-					""";
-		}
-
-		if (message.equalsIgnoreCase("/status")) {
-			return """
-					 Replace this with business logic related to DHP status
 					""";
 		}
 
