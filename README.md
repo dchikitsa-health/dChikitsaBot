@@ -17,9 +17,12 @@
 
 - Step 3. Choose or type the /newbot command and send it.
 
+![photo_2022-04-25_12-30-07](https://user-images.githubusercontent.com/82867130/165038003-cd0db7b5-78f9-4eb8-9981-f0584a33ae57.jpg)
+
 - Step 4. Choose a name for your bot — your subscribers will see it in the conversation. And choose a username for your bot — the bot can be found by its username in searches. Username must be unique and end with the word “bot.”
 
-- Step 5. After you choose a suitable name for your bot — the bot is created.
+- Step 5. After you c
+hoose a suitable name for your bot — the bot is created.
 
 - Step 6. Copy Telegram Authorization Token into the [application.properties](https://github.com/dchikitsa-health/dChikitsaTelegramBot/blob/main/src/main/resources/application.properties) file.
 
