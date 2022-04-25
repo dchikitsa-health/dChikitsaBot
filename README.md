@@ -6,7 +6,7 @@
 
 ## How to create Telegram Bot and receive Telegram Authorization Token
 
-*Creating a new bot:
+*Creating a new bot:*
 
 - Step 1. Enter @Botfather in the search tab and choose this bot.
 
