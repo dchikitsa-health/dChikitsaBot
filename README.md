@@ -6,7 +6,7 @@
 
 ## How to create Telegram Bot and receive Telegram Authorization Token
 
-*Creating a new bot:*
+### Creating a new bot:
 
 - Step 1. Enter @Botfather in the search tab and choose this bot.
 
@@ -30,7 +30,7 @@ hoose a suitable name for your bot — the bot is created.
 ![photo_2022-04-25_12-30-23](https://user-images.githubusercontent.com/82867130/165044299-ab702c74-35d0-4158-bd54-783841acad24.jpg)
 
 
-*Creating a bot menu:*
+### Creating a bot menu:
 
 - Step 1: Choose /setcommand to create command list.
 
@@ -40,8 +40,10 @@ hoose a suitable name for your bot — the bot is created.
 
 ![photo_2022-04-25_13-03-24](https://user-images.githubusercontent.com/82867130/165044583-8929f31c-d35f-4e92-bbc2-7b2728bfd246.jpg)
 
+
 ## How to run this code:
-run this command in the command line:
+
+Run this command in the command line:
 mvn spring-boot:run
 
 
