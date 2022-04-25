@@ -32,7 +32,13 @@ hoose a suitable name for your bot — the bot is created.
 
 - Step 1: Choose /setcommand to create command list.
 
+![photo_2022-04-25_13-03-19](https://user-images.githubusercontent.com/82867130/165041724-fb3dd6db-df22-4fff-b41e-d7ea4a90b4f7.jpg)
+
+
 - Step 2: Use the given format to create the list.
+
+![photo_2022-04-25_13-03-24](https://user-images.githubusercontent.com/82867130/165041877-d4fee034-cb79-4ff8-bb03-29922e0a1bb2.jpg)
+
 
 
 *Tadaaa! your bot is created....*
