@@ -17,7 +17,7 @@
 
 - Step 3. Choose or type the /newbot command and send it.
 
-![photo_2022-04-25_12-30-07](https://user-images.githubusercontent.com/82867130/165038003-cd0db7b5-78f9-4eb8-9981-f0584a33ae57.jpg)
+![photo_2022-04-25_12-30-07](https://user-images.githubusercontent.com/82867130/165039544-d0db204b-5c9b-417d-bdb6-dd2b4f460637.jpg)
 
 - Step 4. Choose a name for your bot — your subscribers will see it in the conversation. And choose a username for your bot — the bot can be found by its username in searches. Username must be unique and end with the word “bot.”
 
