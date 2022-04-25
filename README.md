@@ -26,11 +26,7 @@ hoose a suitable name for your bot — the bot is created.
 
 - Step 6. Copy Telegram Authorization Token into the [application.properties](https://github.com/dchikitsa-health/dChikitsaTelegramBot/blob/main/src/main/resources/application.properties) file.
 
-
-
-
-
-
+![photo_2022-04-25_12-30-23](https://user-images.githubusercontent.com/82867130/165038219-1309cd56-bfda-4367-b6c3-d1058ffd53a6.jpg)
 
 
 
